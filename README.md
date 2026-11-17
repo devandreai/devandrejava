@@ -1,6 +1,6 @@
 <div align="center">
   <h1>André Valverde</h1>
-  <p><strong>Backend Developer | Java & Spring | AWS Certified</strong></p>
+  <p><strong>Desenvolvedor Backend | Node.js · TypeScript · Cloud AWS</strong></p>
 
   <a href="https://www.linkedin.com/in/devandrets/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -16,24 +16,22 @@
 <br>
 
 ### 👨‍💻 Sobre Mim
-Desenvolvedor backend com experiência na construção e sustentação de APIs, microsserviços e sistemas orientados a eventos. Atuei em projetos corporativos envolvendo processamento de dados, mensageria e soluções conversacionais, com atenção à estabilidade e à evolução dos serviços.
+* 🎓 Bacharel em **Sistemas de Informação** pela PUC Minas.
+* 🚀 Desenvolvedor Backend com experiência em squads corporativos, construindo e sustentando APIs, microsserviços e esteiras orientadas a eventos.
+* 🏢 Passagens por **Mundiale** (squad de inovação/POCs com Fastify, Monorepo Nx, RabbitMQ e GenAI) e **ioasys** (microsserviços e esteiras de ETL com Go e Apache Kafka para a **CVC Corp**).
+* 📍 Disponível para oportunidades **100% remotas**.
+* ☁️ **3x AWS Certified:** Solutions Architect Associate, Developer Associate e Cloud Practitioner.
+* 🐧 Usuário e entusiasta diário de ambientes **Linux**, containers Docker e automações de terminal.
 
-Na **ioasys**, integrei o time que desenvolvia e sustentava microsserviços e esteiras de processamento de dados para a CVC Corp, utilizando Go e Apache Kafka. Também participei da investigação de incidentes em produção.
+---
 
-Na **Mundiale**, atuei em um time de inovação no desenvolvimento de soluções conversacionais e provas de conceito, trabalhando com serviços de backend e mensageria.
+### 📂 Projetos
 
-Atualmente, concentro meu desenvolvimento em **Java e Spring para backend**, direcionando minha experiência em sistemas distribuídos e integração de serviços para esse ecossistema.
-
-### 💼 Áreas de Atuação
-
-- Desenvolvimento e sustentação de APIs e microsserviços
-- Integração de sistemas e mensageria com Apache Kafka e RabbitMQ
-- Processamento de dados e diagnóstico de incidentes em produção
-- Cloud AWS, Docker e Linux
-
-### 🎓 Formação
-
-Bacharelado em Sistemas de Informação — PUC Minas
+| Projeto | Stack | O que mostra |
+| :--- | :--- | :--- |
+| [radar-tech](https://github.com/devandrets/radar-tech) | Node.js · JavaScript · CLI | Coleta vagas de LinkedIn, Gupy, ProgramaThor e Remotar, aplica regras de filtro e gera um relatório diário em Markdown |
+| [lorcana-chunks-study](https://github.com/devandrets/lorcana-chunks-study) | TypeScript · Nx Monorepo · pnpm | Monorepo Nx com apps e bibliotecas compartilhadas |
+| [badass_scripts_bash](https://github.com/devandrets/badass_scripts_bash) | Shell Script · Linux | Scripts de automação para o dia a dia no terminal |
 
 ---
 
@@ -60,21 +58,20 @@ Bacharelado em Sistemas de Informação — PUC Minas
 
 ### 🛠️ Tecnologias & Ferramentas
 
-**Backend**
+**Backend & Runtimes**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white) ![NestJS](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Nx](https://img.shields.io/badge/Nx_Monorepo-143055?style=flat-square&logo=nx&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![APIs REST](https://img.shields.io/badge/APIs-REST-4054B2?style=for-the-badge) ![Microservices](https://img.shields.io/badge/Microservices-4B5563?style=for-the-badge)
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-**Cloud & Ferramentas**
+**Bancos de Dados & Mensageria**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Dados & Mensageria**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+**IA & Qualidade**  
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 ---
 
 <div align="center">
-  <p><i>Foco atual: construir minha próxima etapa em Java backend e arquiteturas distribuídas.</i></p>
+  <p><i>Focado em arquiteturas distribuídas, código limpo e soluções escaláveis no backend.</i></p>
 </div>
-
